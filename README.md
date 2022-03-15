@@ -1,4 +1,5 @@
 C, C#, Java, JavaScript, HTML, CSS
+
 Learning React JS, TypeScript
 
 email : francesco419@naver.com
