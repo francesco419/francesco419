@@ -1,6 +1,6 @@
-C, C#, Java, JavaScript, HTML, CSS
+Java, JavaScript, HTML, CSS, React
 
-Learning React JS
+Learning TYPESCRIPT
 
 email : francesco419@naver.com
 
