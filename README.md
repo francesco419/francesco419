@@ -6,7 +6,8 @@
 
 #### 항상 성장하는 개발자가 되기 위해
 
-SKILL STACK : JavaScript, HTML5, CSS3 ,React, TypeScript, SCSS, Redux Toolkit, 
+#### SKILL STACK 
+JavaScript, HTML5, CSS3 ,React, TypeScript, SCSS, Redux Toolkit, 
 
 <!---
 francesco419/francesco419 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
