@@ -6,6 +6,8 @@
 
 #### 항상 성장하는 개발자가 되기 위해
 
+---
+
 #### SKILL STACK 
 JavaScript, HTML5, CSS3 ,React, TypeScript, SCSS, Redux Toolkit, 
 
