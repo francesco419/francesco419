@@ -1,8 +1,10 @@
-Java, JavaScript, HTML, CSS, React
+### email : francesco419@naver.com
 
-Learning TYPESCRIPT
+### velog : https://velog.io/@francesco419
 
-email : francesco419@naver.com
+#### 항상 성장하는 개발자가 되기 위해
+
+
 
 <!---
 francesco419/francesco419 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
