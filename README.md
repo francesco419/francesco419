@@ -1,6 +1,8 @@
 ### email : francesco419@naver.com
 
-### velog : https://velog.io/@francesco419
+### [Velog](https://velog.io/@francesco419).
+
+### [Portfolio](https://velog.io/@francesco419).
 
 #### 항상 성장하는 개발자가 되기 위해
 
