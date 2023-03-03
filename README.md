@@ -33,6 +33,8 @@
   <br>
 </div>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=francesco419&show_icons=true&theme=tokyonight)
+
 ### email : francesco419@naver.com
 
 ### [Velog](https://velog.io/@francesco419).
