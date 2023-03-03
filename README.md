@@ -31,15 +31,12 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <br>
+  <br>
+  <br>
 </div>
-<br>
-<br>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=francesco419&show_icons=true&theme=tokyonight)
-<br>
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francesco419&layout=compact&theme=tokyonight)
-<br>
-<br>
 
 ### email : francesco419@naver.com
 
