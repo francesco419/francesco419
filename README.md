@@ -8,8 +8,8 @@
 최고의 프로덕트를 위해 최고의 코드를 고민하며, 경험을 통해 성장하며 발전하고자 합니다.
 <br>
 <br>
-<img src="https://images.theconversation.com/files/510854/original/file-20230217-336-kdw80u.jpg?ixlib=rb-1.1.0&rect=8%2C8%2C5734%2C2862&q=45&auto=format&w=668&h=324&fit=crop">
 <br>
+<img src="https://images.theconversation.com/files/510854/original/file-20230217-336-kdw80u.jpg?ixlib=rb-1.1.0&rect=8%2C8%2C5734%2C2862&q=45&auto=format&w=668&h=324&fit=crop">
 <br>
 <div> 
   
