@@ -6,9 +6,9 @@
 <br>
 최고의 프로덕트를 위해 최고의 코드를 고민하며, 경험을 통해 성장하며 발전하고자 합니다.
 
-<div align=center><h1>📚SKILL STACKS</h1></div>
+<div><h1>📚SKILL STACKS</h1></div>
 
-<div align=center> 
+<div> 
   
   <h3>FrontEnd</h3>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -33,10 +33,11 @@
   <br>
   <br>
   <br>
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=francesco419&show_icons=true&theme=tokyonight)
-  <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francesco419&layout=compact&theme=tokyonight)
 </div>
+ 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=francesco419&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francesco419&layout=compact&theme=tokyonight)
 
 ### email : francesco419@naver.com
 
