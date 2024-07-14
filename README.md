@@ -10,19 +10,22 @@
 <img src="https://images.theconversation.com/files/510854/original/file-20230217-336-kdw80u.jpg?ixlib=rb-1.1.0&rect=8%2C8%2C5734%2C2862&q=45&auto=format&w=668&h=324&fit=crop">
 <div> 
   
-  <h3>FrontEnd</h3>
-  [My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,styledcomponents,redux,vite,sass,git,npm,)](https://skillicons.dev)
-
-  <h3>BackEnd</h3>
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+  **FrontEnd**
   <br>
+  ![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,styledcomponents,redux,sass,vite,threejs)
+
+  **BackEnd**
+  <br>
+  ![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,express)
+  <br>
+
+  **Publish**
+  <br>
+  ![My Skills](https://skillicons.dev/icons?i=aws,netlify)
   
-  <h3>Tool</h3>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  **Tool**
+  <br>
+  ![My Skills](https://skillicons.dev/icons?i=git,npm,figma,notion)
   <br>
   <br>
   <br>
